@@ -1,3 +1,5 @@
+#Defination 
+
 def getNumber(helpText = "Get the Number"):
     return int(input(helpText))
 
